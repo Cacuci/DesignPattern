@@ -65,12 +65,24 @@ namespace DesignPattern
             System.Console.WriteLine("SingleOne {0}: ", singletwo.ID);
             #endregion             */
 
-            #region Facade
+            /*#region Facade
                 
             Computer facade = new Computer();
 
             facade.StartComputer();            
 
+            #endregion*/
+
+            #region Command
+
+            IReceive receive = new Receive();
+
+            ICommand commandOne = new InvokeOneCommand(receive);
+            ICommand commandTwo = new InvokeTwoCommand(receive);
+
+            commandOne.Execute();
+            commandTwo.Execute();            
+                
             #endregion
 
             Console.ReadKey();                

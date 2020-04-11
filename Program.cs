@@ -1,7 +1,9 @@
 ﻿using DesignPattern._1_Creational._1._1_AbstractFactory;
 using DesignPattern._1_Creational._1._2_FactoryMethod;
 using DesignPattern_2_Structural_2_2_Facade;
+using DesignPattern_3_Behavioral_3_3_Observer;
 using System;
+using System.Collections.Generic;
 
 namespace DesignPattern
 {
@@ -73,7 +75,7 @@ namespace DesignPattern
 
             #endregion*/
 
-            #region Command
+            /*#region Command
 
             IReceive receive = new Receive();
 
@@ -83,9 +85,49 @@ namespace DesignPattern
             commandOne.Execute();
             commandTwo.Execute();            
                 
-            #endregion
+            #endregion*/
 
-            Console.ReadKey();                
+            // #region Strategy
+
+            // var strategyA = new Context(new StrategyA());
+
+            // strategyA.ConcretInterface();
+
+            // var strategyB = new Context(new StrategyB());
+
+            // strategyB.ConcretInterface();
+                
+            // #endregion
+
+            // #region Observer
+
+            // Subject subject = new Subject(new List<IObserver>());
+
+            // IObserver observer1 = new Observer("Observer 1", subject);
+            // IObserver observer2 = new Observer("Observer 2", subject);
+            // IObserver observer3 = new Observer("Observer 3", subject);
+
+            // subject.Subscribe(observer1);
+            // subject.Subscribe(observer2);
+            // subject.Subscribe(observer3);            
+
+            // subject.EditEdition();            
+
+            // Console.WriteLine();                        
+
+            // subject.EditEdition();          
+
+            // Console.WriteLine();                        
+
+            // subject.UnSubscribe(observer2); 
+
+            // Console.WriteLine();                         
+
+            // subject.EditEdition();                      
+                
+            // #endregion
+
+            // Console.ReadKey();                
         }
     }
 }

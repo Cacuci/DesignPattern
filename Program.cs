@@ -47,17 +47,17 @@ namespace DesignPattern
 
             // #endregion
 
-          /*   #region Adapter
+            /*   #region Adapter
 
-            ITarget target = new Target();
+              ITarget target = new Target();
 
-            target.Requests();
+              target.Requests();
 
-            ITarget target1 = new Adapter();
+              ITarget target1 = new Adapter();
 
-            target1.Requests();
-                
-            #endregion   */             
+              target1.Requests();
+
+              #endregion   */
 
             /* #region Singleton
             Singleton singlone = Singleton.Instance();
@@ -96,7 +96,7 @@ namespace DesignPattern
             // var strategyB = new Context(new StrategyB());
 
             // strategyB.ConcretInterface();
-                
+
             // #endregion
 
             // #region Observer
@@ -124,10 +124,19 @@ namespace DesignPattern
             // Console.WriteLine();                         
 
             // subject.EditEdition();                      
-                
+
             // #endregion
 
-            // Console.ReadKey();                
+            #region Decorator
+
+            var pizza = new PizzaComponent();
+            var chesse = new CheeseDecorator(pizza);
+            var tomate = new TomateDecorator(chesse);
+
+            Console.WriteLine($"Decorator Pattern Pizza: {tomate.GetDescription()} - {tomate.CalculateCost()}");
+            #endregion
+
+            Console.ReadKey();                
         }
     }
 }

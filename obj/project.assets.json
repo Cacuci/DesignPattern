@@ -8,24 +8,27 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\RafaelCacuci\\.nuget\\packages\\": {},
+    "C:\\Users\\DEV02\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\RafaelCacuci\\Documents\\GitHub\\DesignPattern\\DesignPattern.csproj",
+      "projectUniqueName": "C:\\Users\\DEV02\\Documents\\GitHub\\DesignPattern\\DesignPattern.csproj",
       "projectName": "DesignPattern",
-      "projectPath": "C:\\Users\\RafaelCacuci\\Documents\\GitHub\\DesignPattern\\DesignPattern.csproj",
-      "packagesPath": "C:\\Users\\RafaelCacuci\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\RafaelCacuci\\Documents\\GitHub\\DesignPattern\\obj\\",
+      "projectPath": "C:\\Users\\DEV02\\Documents\\GitHub\\DesignPattern\\DesignPattern.csproj",
+      "packagesPath": "C:\\Users\\DEV02\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\DEV02\\Documents\\GitHub\\DesignPattern\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
+        "C:\\Microsoft\\Xamarin\\NuGet\\",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\RafaelCacuci\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\DEV02\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
@@ -36,6 +39,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "projectReferences": {}
         }
       },
@@ -47,6 +51,7 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
         "imports": [
           "net461",
           "net462",
@@ -62,7 +67,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -1,4 +1,4 @@
-name: Deploy para o azure
+name: Deploy
 
 on:
   push:

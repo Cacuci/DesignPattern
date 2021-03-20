@@ -29,10 +29,8 @@ jobs:
           name: WebApp1
           path: /home/runner/work/DesignPattern/DesignPattern/bin/Release/netcoreapp3.1/publish/
           
-      - name: FTP-Deploy-Action
-        uses: sebastianpopp/ftp-action@releases/v2
-        with:
-         host: my_host
-         user: my_user         
-         localDir: "http://10.1.1.105:8887"
-         remoteDir: "CI-Test" 
+      - name: Copy via ssh
+        uses: garygrossgarten/github-action-scp@v0.5.3
+        with:         
+          local: /home/runner/work/DesignPattern/DesignPattern/bin/Release/netcoreapp3.1/publish/          
+          host: http://10.1.1.105:8887          

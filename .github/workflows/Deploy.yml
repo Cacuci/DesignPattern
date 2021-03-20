@@ -34,5 +34,5 @@ jobs:
         with:
          host: my_host
          user: my_user         
-         localDir: "http://127.0.0.1:8887"
+         localDir: "http://10.1.1.105:8887"
          remoteDir: "CI-Test" 

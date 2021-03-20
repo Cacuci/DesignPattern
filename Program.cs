@@ -129,9 +129,9 @@ namespace DesignPattern
 
             #region Decorator
 
-            var pizza = new PizzaComponent();
-            var chesse = new CheeseDecorator(pizza);
-            var tomate = new TomateDecorator(chesse);
+            IPizzaComponent pizza = new PizzaComponent();
+            CheeseDecorator chesse = new CheeseDecorator(pizza);
+            TomateDecorator tomate = new TomateDecorator(chesse);
 
             Console.WriteLine($"Decorator Pattern Pizza: {tomate.GetDescription()} - {tomate.CalculateCost()}");
             #endregion

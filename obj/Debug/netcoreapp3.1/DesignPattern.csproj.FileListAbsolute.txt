@@ -21,3 +21,4 @@ C:\Users\DEV02\Documents\GitHub\DesignPattern\obj\Debug\netcoreapp3.1\DesignPatt
 C:\Users\DEV02\Documents\GitHub\DesignPattern\obj\Debug\netcoreapp3.1\DesignPattern.dll
 C:\Users\DEV02\Documents\GitHub\DesignPattern\obj\Debug\netcoreapp3.1\DesignPattern.pdb
 C:\Users\DEV02\Documents\GitHub\DesignPattern\obj\Debug\netcoreapp3.1\DesignPattern.genruntimeconfig.cache
+C:\Users\DEV02\Documents\GitHub\DesignPattern\obj\Debug\netcoreapp3.1\DesignPattern.csprojAssemblyReference.cache

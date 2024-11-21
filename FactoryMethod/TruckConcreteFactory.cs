@@ -2,7 +2,7 @@
 {
     // Criadores concretos sobrescrevem o método de fábrica para alterar o
     // tipo do transporte resultante.
-    internal class TruckFactory : Factory
+    internal class TruckConcreteFactory : Factory
     {
         // Observe que a assinatura do método ainda utiliza o Transport abstrato
         // tipo, mesmo que o Transport concreto seja realmente retornado do

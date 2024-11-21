@@ -1,0 +1,15 @@
+C:\Git\DesignPattern\AbstractFactory\bin\Debug\net8.0\AbstractFactory.exe
+C:\Git\DesignPattern\AbstractFactory\bin\Debug\net8.0\AbstractFactory.deps.json
+C:\Git\DesignPattern\AbstractFactory\bin\Debug\net8.0\AbstractFactory.runtimeconfig.json
+C:\Git\DesignPattern\AbstractFactory\bin\Debug\net8.0\AbstractFactory.dll
+C:\Git\DesignPattern\AbstractFactory\bin\Debug\net8.0\AbstractFactory.pdb
+C:\Git\DesignPattern\AbstractFactory\obj\Debug\net8.0\AbstractFactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\DesignPattern\AbstractFactory\obj\Debug\net8.0\AbstractFactory.AssemblyInfoInputs.cache
+C:\Git\DesignPattern\AbstractFactory\obj\Debug\net8.0\AbstractFactory.AssemblyInfo.cs
+C:\Git\DesignPattern\AbstractFactory\obj\Debug\net8.0\AbstractFactory.csproj.CoreCompileInputs.cache
+C:\Git\DesignPattern\AbstractFactory\obj\Debug\net8.0\AbstractFactory.sourcelink.json
+C:\Git\DesignPattern\AbstractFactory\obj\Debug\net8.0\AbstractFactory.dll
+C:\Git\DesignPattern\AbstractFactory\obj\Debug\net8.0\refint\AbstractFactory.dll
+C:\Git\DesignPattern\AbstractFactory\obj\Debug\net8.0\AbstractFactory.pdb
+C:\Git\DesignPattern\AbstractFactory\obj\Debug\net8.0\AbstractFactory.genruntimeconfig.cache
+C:\Git\DesignPattern\AbstractFactory\obj\Debug\net8.0\ref\AbstractFactory.dll

@@ -1,0 +1,15 @@
+C:\Git\DesignPattern\FactoryMethod\bin\Release\net8.0\FactoryMethod.exe
+C:\Git\DesignPattern\FactoryMethod\bin\Release\net8.0\FactoryMethod.deps.json
+C:\Git\DesignPattern\FactoryMethod\bin\Release\net8.0\FactoryMethod.runtimeconfig.json
+C:\Git\DesignPattern\FactoryMethod\bin\Release\net8.0\FactoryMethod.dll
+C:\Git\DesignPattern\FactoryMethod\bin\Release\net8.0\FactoryMethod.pdb
+C:\Git\DesignPattern\FactoryMethod\obj\Release\net8.0\FactoryMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\DesignPattern\FactoryMethod\obj\Release\net8.0\FactoryMethod.AssemblyInfoInputs.cache
+C:\Git\DesignPattern\FactoryMethod\obj\Release\net8.0\FactoryMethod.AssemblyInfo.cs
+C:\Git\DesignPattern\FactoryMethod\obj\Release\net8.0\FactoryMethod.csproj.CoreCompileInputs.cache
+C:\Git\DesignPattern\FactoryMethod\obj\Release\net8.0\FactoryMethod.sourcelink.json
+C:\Git\DesignPattern\FactoryMethod\obj\Release\net8.0\FactoryMethod.dll
+C:\Git\DesignPattern\FactoryMethod\obj\Release\net8.0\refint\FactoryMethod.dll
+C:\Git\DesignPattern\FactoryMethod\obj\Release\net8.0\FactoryMethod.pdb
+C:\Git\DesignPattern\FactoryMethod\obj\Release\net8.0\FactoryMethod.genruntimeconfig.cache
+C:\Git\DesignPattern\FactoryMethod\obj\Release\net8.0\ref\FactoryMethod.dll

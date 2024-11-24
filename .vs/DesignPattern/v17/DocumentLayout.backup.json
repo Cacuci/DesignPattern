@@ -3,44 +3,12 @@
   "WorkspaceRootPath": "C:\\Git\\DesignPattern\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F89469BD-5DFA-41CD-A089-76001C152235}|AbstractFactory\\AbstractFactory.csproj|c:\\git\\designpattern\\abstractfactory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F89469BD-5DFA-41CD-A089-76001C152235}|AbstractFactory\\AbstractFactory.csproj|solutionrelative:abstractfactory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{81D9A985-5A49-487C-B2A5-377BFFAF47C3}|Singleton\\Singleton.csproj|c:\\git\\designpattern\\singleton\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81D9A985-5A49-487C-B2A5-377BFFAF47C3}|Singleton\\Singleton.csproj|solutionrelative:singleton\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F89469BD-5DFA-41CD-A089-76001C152235}|AbstractFactory\\AbstractFactory.csproj|c:\\git\\designpattern\\abstractfactory\\victoriansofa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F89469BD-5DFA-41CD-A089-76001C152235}|AbstractFactory\\AbstractFactory.csproj|solutionrelative:abstractfactory\\victoriansofa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F89469BD-5DFA-41CD-A089-76001C152235}|AbstractFactory\\AbstractFactory.csproj|c:\\git\\designpattern\\abstractfactory\\modernsofa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F89469BD-5DFA-41CD-A089-76001C152235}|AbstractFactory\\AbstractFactory.csproj|solutionrelative:abstractfactory\\modernsofa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F89469BD-5DFA-41CD-A089-76001C152235}|AbstractFactory\\AbstractFactory.csproj|c:\\git\\designpattern\\abstractfactory\\isofa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F89469BD-5DFA-41CD-A089-76001C152235}|AbstractFactory\\AbstractFactory.csproj|solutionrelative:abstractfactory\\isofa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F89469BD-5DFA-41CD-A089-76001C152235}|AbstractFactory\\AbstractFactory.csproj|c:\\git\\designpattern\\abstractfactory\\victorianchair.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F89469BD-5DFA-41CD-A089-76001C152235}|AbstractFactory\\AbstractFactory.csproj|solutionrelative:abstractfactory\\victorianchair.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F89469BD-5DFA-41CD-A089-76001C152235}|AbstractFactory\\AbstractFactory.csproj|c:\\git\\designpattern\\abstractfactory\\modernchair.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F89469BD-5DFA-41CD-A089-76001C152235}|AbstractFactory\\AbstractFactory.csproj|solutionrelative:abstractfactory\\modernchair.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F89469BD-5DFA-41CD-A089-76001C152235}|AbstractFactory\\AbstractFactory.csproj|c:\\git\\designpattern\\abstractfactory\\ichair.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F89469BD-5DFA-41CD-A089-76001C152235}|AbstractFactory\\AbstractFactory.csproj|solutionrelative:abstractfactory\\ichair.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F89469BD-5DFA-41CD-A089-76001C152235}|AbstractFactory\\AbstractFactory.csproj|c:\\git\\designpattern\\abstractfactory\\victorianconcretefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F89469BD-5DFA-41CD-A089-76001C152235}|AbstractFactory\\AbstractFactory.csproj|solutionrelative:abstractfactory\\victorianconcretefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F89469BD-5DFA-41CD-A089-76001C152235}|AbstractFactory\\AbstractFactory.csproj|c:\\git\\designpattern\\abstractfactory\\abstractfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F89469BD-5DFA-41CD-A089-76001C152235}|AbstractFactory\\AbstractFactory.csproj|solutionrelative:abstractfactory\\abstractfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F89469BD-5DFA-41CD-A089-76001C152235}|AbstractFactory\\AbstractFactory.csproj|c:\\git\\designpattern\\abstractfactory\\modernconcretefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F89469BD-5DFA-41CD-A089-76001C152235}|AbstractFactory\\AbstractFactory.csproj|solutionrelative:abstractfactory\\modernconcretefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{81D9A985-5A49-487C-B2A5-377BFFAF47C3}|Singleton\\Singleton.csproj|c:\\git\\designpattern\\singleton\\singleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81D9A985-5A49-487C-B2A5-377BFFAF47C3}|Singleton\\Singleton.csproj|solutionrelative:singleton\\singleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 15,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -78,132 +46,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ISofa.cs",
-              "DocumentMoniker": "C:\\Git\\DesignPattern\\AbstractFactory\\ISofa.cs",
-              "RelativeDocumentMoniker": "AbstractFactory\\ISofa.cs",
-              "ToolTip": "C:\\Git\\DesignPattern\\AbstractFactory\\ISofa.cs",
-              "RelativeToolTip": "AbstractFactory\\ISofa.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAANAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Git\\DesignPattern\\Singleton\\Program.cs",
+              "RelativeDocumentMoniker": "Singleton\\Program.cs",
+              "ToolTip": "C:\\Git\\DesignPattern\\Singleton\\Program.cs",
+              "RelativeToolTip": "Singleton\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T21:23:10.125Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "IChair.cs",
-              "DocumentMoniker": "C:\\Git\\DesignPattern\\AbstractFactory\\IChair.cs",
-              "RelativeDocumentMoniker": "AbstractFactory\\IChair.cs",
-              "ToolTip": "C:\\Git\\DesignPattern\\AbstractFactory\\IChair.cs",
-              "RelativeToolTip": "AbstractFactory\\IChair.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T21:22:53.556Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "AbstractFactory.cs",
-              "DocumentMoniker": "C:\\Git\\DesignPattern\\AbstractFactory\\AbstractFactory.cs",
-              "RelativeDocumentMoniker": "AbstractFactory\\AbstractFactory.cs",
-              "ToolTip": "C:\\Git\\DesignPattern\\AbstractFactory\\AbstractFactory.cs",
-              "RelativeToolTip": "AbstractFactory\\AbstractFactory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T21:13:52.64Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "VictorianChair.cs",
-              "DocumentMoniker": "C:\\Git\\DesignPattern\\AbstractFactory\\VictorianChair.cs",
-              "RelativeDocumentMoniker": "AbstractFactory\\VictorianChair.cs",
-              "ToolTip": "C:\\Git\\DesignPattern\\AbstractFactory\\VictorianChair.cs",
-              "RelativeToolTip": "AbstractFactory\\VictorianChair.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T21:11:07.027Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "VictorianConcreteFactory.cs",
-              "DocumentMoniker": "C:\\Git\\DesignPattern\\AbstractFactory\\VictorianConcreteFactory.cs",
-              "RelativeDocumentMoniker": "AbstractFactory\\VictorianConcreteFactory.cs",
-              "ToolTip": "C:\\Git\\DesignPattern\\AbstractFactory\\VictorianConcreteFactory.cs",
-              "RelativeToolTip": "AbstractFactory\\VictorianConcreteFactory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAABAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T21:09:51.307Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ModernChair.cs",
-              "DocumentMoniker": "C:\\Git\\DesignPattern\\AbstractFactory\\ModernChair.cs",
-              "RelativeDocumentMoniker": "AbstractFactory\\ModernChair.cs",
-              "ToolTip": "C:\\Git\\DesignPattern\\AbstractFactory\\ModernChair.cs",
-              "RelativeToolTip": "AbstractFactory\\ModernChair.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T21:08:31.465Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ModernConcreteFactory.cs",
-              "DocumentMoniker": "C:\\Git\\DesignPattern\\AbstractFactory\\ModernConcreteFactory.cs",
-              "RelativeDocumentMoniker": "AbstractFactory\\ModernConcreteFactory.cs",
-              "ToolTip": "C:\\Git\\DesignPattern\\AbstractFactory\\ModernConcreteFactory.cs",
-              "RelativeToolTip": "AbstractFactory\\ModernConcreteFactory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T21:07:46.773Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ModernSofa.cs",
-              "DocumentMoniker": "C:\\Git\\DesignPattern\\AbstractFactory\\ModernSofa.cs",
-              "RelativeDocumentMoniker": "AbstractFactory\\ModernSofa.cs",
-              "ToolTip": "C:\\Git\\DesignPattern\\AbstractFactory\\ModernSofa.cs",
-              "RelativeToolTip": "AbstractFactory\\ModernSofa.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T21:06:48.753Z",
+              "WhenOpened": "2024-11-24T14:20:37.882Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "VictorianSofa.cs",
-              "DocumentMoniker": "C:\\Git\\DesignPattern\\AbstractFactory\\VictorianSofa.cs",
-              "RelativeDocumentMoniker": "AbstractFactory\\VictorianSofa.cs",
-              "ToolTip": "C:\\Git\\DesignPattern\\AbstractFactory\\VictorianSofa.cs",
-              "RelativeToolTip": "AbstractFactory\\VictorianSofa.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAUAAAAAAAAAA==",
+              "Title": "Singleton.cs",
+              "DocumentMoniker": "C:\\Git\\DesignPattern\\Singleton\\Singleton.cs",
+              "RelativeDocumentMoniker": "Singleton\\Singleton.cs",
+              "ToolTip": "C:\\Git\\DesignPattern\\Singleton\\Singleton.cs",
+              "RelativeToolTip": "Singleton\\Singleton.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T21:06:44.049Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Git\\DesignPattern\\AbstractFactory\\Program.cs",
-              "RelativeDocumentMoniker": "AbstractFactory\\Program.cs",
-              "ToolTip": "C:\\Git\\DesignPattern\\AbstractFactory\\Program.cs",
-              "RelativeToolTip": "AbstractFactory\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T21:06:20.05Z",
+              "WhenOpened": "2024-11-24T14:18:44.163Z",
               "EditorCaption": ""
             }
           ]

@@ -3,12 +3,32 @@
   "WorkspaceRootPath": "C:\\Git\\DesignPattern\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{81D9A985-5A49-487C-B2A5-377BFFAF47C3}|Singleton\\Singleton.csproj|c:\\git\\designpattern\\singleton\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{81D9A985-5A49-487C-B2A5-377BFFAF47C3}|Singleton\\Singleton.csproj|solutionrelative:singleton\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5FC0A50C-C386-4051-BA7E-523271100EE6}|Builder\\Builder.csproj|c:\\git\\designpattern\\builder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FC0A50C-C386-4051-BA7E-523271100EE6}|Builder\\Builder.csproj|solutionrelative:builder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{81D9A985-5A49-487C-B2A5-377BFFAF47C3}|Singleton\\Singleton.csproj|c:\\git\\designpattern\\singleton\\singleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{81D9A985-5A49-487C-B2A5-377BFFAF47C3}|Singleton\\Singleton.csproj|solutionrelative:singleton\\singleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5FC0A50C-C386-4051-BA7E-523271100EE6}|Builder\\Builder.csproj|c:\\git\\designpattern\\builder\\carbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FC0A50C-C386-4051-BA7E-523271100EE6}|Builder\\Builder.csproj|solutionrelative:builder\\carbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FC0A50C-C386-4051-BA7E-523271100EE6}|Builder\\Builder.csproj|c:\\git\\designpattern\\builder\\carmanualbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FC0A50C-C386-4051-BA7E-523271100EE6}|Builder\\Builder.csproj|solutionrelative:builder\\carmanualbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FC0A50C-C386-4051-BA7E-523271100EE6}|Builder\\Builder.csproj|c:\\git\\designpattern\\builder\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FC0A50C-C386-4051-BA7E-523271100EE6}|Builder\\Builder.csproj|solutionrelative:builder\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FC0A50C-C386-4051-BA7E-523271100EE6}|Builder\\Builder.csproj|c:\\git\\designpattern\\builder\\directorcar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FC0A50C-C386-4051-BA7E-523271100EE6}|Builder\\Builder.csproj|solutionrelative:builder\\directorcar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FC0A50C-C386-4051-BA7E-523271100EE6}|Builder\\Builder.csproj|c:\\git\\designpattern\\builder\\ibuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FC0A50C-C386-4051-BA7E-523271100EE6}|Builder\\Builder.csproj|solutionrelative:builder\\ibuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FC0A50C-C386-4051-BA7E-523271100EE6}|Builder\\Builder.csproj|c:\\git\\designpattern\\builder\\manual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FC0A50C-C386-4051-BA7E-523271100EE6}|Builder\\Builder.csproj|solutionrelative:builder\\manual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 12,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,28 +66,93 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Git\\DesignPattern\\Singleton\\Program.cs",
-              "RelativeDocumentMoniker": "Singleton\\Program.cs",
-              "ToolTip": "C:\\Git\\DesignPattern\\Singleton\\Program.cs",
-              "RelativeToolTip": "Singleton\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "DirectorCar.cs",
+              "DocumentMoniker": "C:\\Git\\DesignPattern\\Builder\\DirectorCar.cs",
+              "RelativeDocumentMoniker": "Builder\\DirectorCar.cs",
+              "ToolTip": "C:\\Git\\DesignPattern\\Builder\\DirectorCar.cs",
+              "RelativeToolTip": "Builder\\DirectorCar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBIAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-24T14:20:37.882Z",
+              "WhenOpened": "2024-11-24T19:43:18.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CarManualBuilder.cs",
+              "DocumentMoniker": "C:\\Git\\DesignPattern\\Builder\\CarManualBuilder.cs",
+              "RelativeDocumentMoniker": "Builder\\CarManualBuilder.cs",
+              "ToolTip": "C:\\Git\\DesignPattern\\Builder\\CarManualBuilder.cs",
+              "RelativeToolTip": "Builder\\CarManualBuilder.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAC8AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T19:40:28.798Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Singleton.cs",
-              "DocumentMoniker": "C:\\Git\\DesignPattern\\Singleton\\Singleton.cs",
-              "RelativeDocumentMoniker": "Singleton\\Singleton.cs",
-              "ToolTip": "C:\\Git\\DesignPattern\\Singleton\\Singleton.cs",
-              "RelativeToolTip": "Singleton\\Singleton.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Title": "CarBuilder.cs",
+              "DocumentMoniker": "C:\\Git\\DesignPattern\\Builder\\CarBuilder.cs",
+              "RelativeDocumentMoniker": "Builder\\CarBuilder.cs",
+              "ToolTip": "C:\\Git\\DesignPattern\\Builder\\CarBuilder.cs",
+              "RelativeToolTip": "Builder\\CarBuilder.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAywC8AAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-24T14:18:44.163Z",
+              "WhenOpened": "2024-11-24T16:48:28.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Manual.cs",
+              "DocumentMoniker": "C:\\Git\\DesignPattern\\Builder\\Manual.cs",
+              "RelativeDocumentMoniker": "Builder\\Manual.cs",
+              "ToolTip": "C:\\Git\\DesignPattern\\Builder\\Manual.cs",
+              "RelativeToolTip": "Builder\\Manual.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T16:46:00.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Git\\DesignPattern\\Builder\\Car.cs",
+              "RelativeDocumentMoniker": "Builder\\Car.cs",
+              "ToolTip": "C:\\Git\\DesignPattern\\Builder\\Car.cs",
+              "RelativeToolTip": "Builder\\Car.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T16:45:46.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IBuilder.cs",
+              "DocumentMoniker": "C:\\Git\\DesignPattern\\Builder\\IBuilder.cs",
+              "RelativeDocumentMoniker": "Builder\\IBuilder.cs",
+              "ToolTip": "C:\\Git\\DesignPattern\\Builder\\IBuilder.cs",
+              "RelativeToolTip": "Builder\\IBuilder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T16:42:43.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Git\\DesignPattern\\Builder\\Program.cs",
+              "RelativeDocumentMoniker": "Builder\\Program.cs",
+              "ToolTip": "C:\\Git\\DesignPattern\\Builder\\Program.cs",
+              "RelativeToolTip": "Builder\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T16:41:44.366Z",
               "EditorCaption": ""
             }
           ]

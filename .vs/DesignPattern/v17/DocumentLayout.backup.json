@@ -1,24 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Git\\DesignPattern\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{E1255331-81CA-424A-8E85-BAC839C1EE9D}|Prototype\\Prototype.csproj|c:\\git\\designpattern\\prototype\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E1255331-81CA-424A-8E85-BAC839C1EE9D}|Prototype\\Prototype.csproj|solutionrelative:prototype\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E1255331-81CA-424A-8E85-BAC839C1EE9D}|Prototype\\Prototype.csproj|c:\\git\\designpattern\\prototype\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E1255331-81CA-424A-8E85-BAC839C1EE9D}|Prototype\\Prototype.csproj|solutionrelative:prototype\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E1255331-81CA-424A-8E85-BAC839C1EE9D}|Prototype\\Prototype.csproj|c:\\git\\designpattern\\prototype\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E1255331-81CA-424A-8E85-BAC839C1EE9D}|Prototype\\Prototype.csproj|solutionrelative:prototype\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E1255331-81CA-424A-8E85-BAC839C1EE9D}|Prototype\\Prototype.csproj|c:\\git\\designpattern\\prototype\\iprototype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E1255331-81CA-424A-8E85-BAC839C1EE9D}|Prototype\\Prototype.csproj|solutionrelative:prototype\\iprototype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -26,7 +9,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -51,58 +34,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{228e1580-0ef9-329a-bf07-81ebc3dcbf7e}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Rectangle.cs",
-              "DocumentMoniker": "C:\\Git\\DesignPattern\\Prototype\\Rectangle.cs",
-              "RelativeDocumentMoniker": "Prototype\\Rectangle.cs",
-              "ToolTip": "C:\\Git\\DesignPattern\\Prototype\\Rectangle.cs",
-              "RelativeToolTip": "Prototype\\Rectangle.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-24T21:33:13.867Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Shape.cs",
-              "DocumentMoniker": "C:\\Git\\DesignPattern\\Prototype\\Shape.cs",
-              "RelativeDocumentMoniker": "Prototype\\Shape.cs",
-              "ToolTip": "C:\\Git\\DesignPattern\\Prototype\\Shape.cs",
-              "RelativeToolTip": "Prototype\\Shape.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-24T21:27:34.473Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IPrototype.cs",
-              "DocumentMoniker": "C:\\Git\\DesignPattern\\Prototype\\IPrototype.cs",
-              "RelativeDocumentMoniker": "Prototype\\IPrototype.cs",
-              "ToolTip": "C:\\Git\\DesignPattern\\Prototype\\IPrototype.cs",
-              "RelativeToolTip": "Prototype\\IPrototype.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-24T21:26:15.556Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Git\\DesignPattern\\Prototype\\Program.cs",
-              "RelativeDocumentMoniker": "Prototype\\Program.cs",
-              "ToolTip": "C:\\Git\\DesignPattern\\Prototype\\Program.cs",
-              "RelativeToolTip": "Prototype\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-24T20:29:49.703Z",
-              "EditorCaption": ""
             }
           ]
         }

@@ -1,6 +1,6 @@
 ﻿namespace FlyWeight
 {
-    // A classe flyweight contém uma parte do estado de uma árvore
+    // A classe flyweight contém uma parte do estado de uma árvore.
     // Esses campos armazenam valores que são únicos para cada
     // árvore em particular. Por exemplo, você não vai encontrar
     // coordenadas da árvore aqui. Já que esses dados geralmente são

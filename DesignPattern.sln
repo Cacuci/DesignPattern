@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prototype", "Prototype\Prot
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Adapter", "Adapter\Adapter.csproj", "{57F3572A-0311-4712-8EDA-312F595A4281}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flyweight", "FlyWeight\Flyweight.csproj", "{0EA5C05C-50EB-4A7C-8879-31F184836281}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{57F3572A-0311-4712-8EDA-312F595A4281}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{57F3572A-0311-4712-8EDA-312F595A4281}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{57F3572A-0311-4712-8EDA-312F595A4281}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0EA5C05C-50EB-4A7C-8879-31F184836281}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EA5C05C-50EB-4A7C-8879-31F184836281}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EA5C05C-50EB-4A7C-8879-31F184836281}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EA5C05C-50EB-4A7C-8879-31F184836281}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,7 +1,7 @@
 ﻿namespace Composite
 {
     // A classe Composite representa os componentes complexos que podem ter
-    // crianças. Normalmente, os objetos Composite delegam o trabalho real para
+    // filhos. Normalmente, os objetos Composite delegam o trabalho real para
     // seus filhos e então "resume" o resultado.
     internal class Composite : Componet
     {

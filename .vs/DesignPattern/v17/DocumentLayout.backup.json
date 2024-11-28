@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Git\\DesignPattern\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8A16F72C-8490-4F9A-A209-14B3AF7CB1A6}|Composite\\Composite.csproj|c:\\git\\designpattern\\composite\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A16F72C-8490-4F9A-A209-14B3AF7CB1A6}|Composite\\Composite.csproj|solutionrelative:composite\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{76E072E3-5399-4618-807A-659F55DC9994}|Decorator\\Decorator.csproj|c:\\git\\designpattern\\decorator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76E072E3-5399-4618-807A-659F55DC9994}|Decorator\\Decorator.csproj|solutionrelative:decorator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8A16F72C-8490-4F9A-A209-14B3AF7CB1A6}|Composite\\Composite.csproj|c:\\git\\designpattern\\composite\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A16F72C-8490-4F9A-A209-14B3AF7CB1A6}|Composite\\Composite.csproj|solutionrelative:composite\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{76E072E3-5399-4618-807A-659F55DC9994}|Decorator\\Decorator.csproj|c:\\git\\designpattern\\decorator\\decorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76E072E3-5399-4618-807A-659F55DC9994}|Decorator\\Decorator.csproj|solutionrelative:decorator\\decorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76E072E3-5399-4618-807A-659F55DC9994}|Decorator\\Decorator.csproj|c:\\git\\designpattern\\decorator\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76E072E3-5399-4618-807A-659F55DC9994}|Decorator\\Decorator.csproj|solutionrelative:decorator\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,28 +50,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Git\\DesignPattern\\Composite\\Program.cs",
-              "RelativeDocumentMoniker": "Composite\\Program.cs",
-              "ToolTip": "C:\\Git\\DesignPattern\\Composite\\Program.cs",
-              "RelativeToolTip": "Composite\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Git\\DesignPattern\\Decorator\\Client.cs",
+              "RelativeDocumentMoniker": "Decorator\\Client.cs",
+              "ToolTip": "C:\\Git\\DesignPattern\\Decorator\\Client.cs",
+              "RelativeToolTip": "Decorator\\Client.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-27T18:57:02.458Z",
+              "WhenOpened": "2024-11-28T20:28:16.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Decorator.cs",
+              "DocumentMoniker": "C:\\Git\\DesignPattern\\Decorator\\Decorator.cs",
+              "RelativeDocumentMoniker": "Decorator\\Decorator.cs",
+              "ToolTip": "C:\\Git\\DesignPattern\\Decorator\\Decorator.cs",
+              "RelativeToolTip": "Decorator\\Decorator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T20:15:47.75Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Client.cs",
-              "DocumentMoniker": "C:\\Git\\DesignPattern\\Composite\\Client.cs",
-              "RelativeDocumentMoniker": "Composite\\Client.cs",
-              "ToolTip": "C:\\Git\\DesignPattern\\Composite\\Client.cs",
-              "RelativeToolTip": "Composite\\Client.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAUAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Git\\DesignPattern\\Decorator\\Program.cs",
+              "RelativeDocumentMoniker": "Decorator\\Program.cs",
+              "ToolTip": "C:\\Git\\DesignPattern\\Decorator\\Program.cs",
+              "RelativeToolTip": "Decorator\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-27T18:56:56.1Z",
+              "WhenOpened": "2024-11-28T20:12:16.722Z",
               "EditorCaption": ""
             }
           ]

@@ -6,9 +6,6 @@
     {
         public AdvancedRemoteControl(IDevice device) : base(device) { }
 
-        private void Mute()
-        {
-            _device.SetVolume(0);
-        }
+        private void Mute() => _device.SetVolume(0);
     }
 }

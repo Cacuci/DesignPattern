@@ -2,8 +2,7 @@
 {
     internal class Client
     {
-        // O código cliente funciona com todos os componentes através da base
-        //interface.
+        // O código cliente funciona com todos os componentes através da interface base.
         public void ClientCode(Componet leaf) => Console.WriteLine($"Resultado: {leaf.Operation()}\n");
 
         // Graças ao fato das operações de gerenciamento serem declaradas

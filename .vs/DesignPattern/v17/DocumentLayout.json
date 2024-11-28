@@ -3,12 +3,32 @@
   "WorkspaceRootPath": "C:\\Git\\DesignPattern\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8A16F72C-8490-4F9A-A209-14B3AF7CB1A6}|Composite\\Composite.csproj|c:\\git\\designpattern\\composite\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A16F72C-8490-4F9A-A209-14B3AF7CB1A6}|Composite\\Composite.csproj|solutionrelative:composite\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{76E072E3-5399-4618-807A-659F55DC9994}|Decorator\\Decorator.csproj|c:\\git\\designpattern\\decorator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76E072E3-5399-4618-807A-659F55DC9994}|Decorator\\Decorator.csproj|solutionrelative:decorator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8A16F72C-8490-4F9A-A209-14B3AF7CB1A6}|Composite\\Composite.csproj|c:\\git\\designpattern\\composite\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A16F72C-8490-4F9A-A209-14B3AF7CB1A6}|Composite\\Composite.csproj|solutionrelative:composite\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{76E072E3-5399-4618-807A-659F55DC9994}|Decorator\\Decorator.csproj|c:\\git\\designpattern\\decorator\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76E072E3-5399-4618-807A-659F55DC9994}|Decorator\\Decorator.csproj|solutionrelative:decorator\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76E072E3-5399-4618-807A-659F55DC9994}|Decorator\\Decorator.csproj|c:\\git\\designpattern\\decorator\\concretedecoratora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76E072E3-5399-4618-807A-659F55DC9994}|Decorator\\Decorator.csproj|solutionrelative:decorator\\concretedecoratora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76E072E3-5399-4618-807A-659F55DC9994}|Decorator\\Decorator.csproj|c:\\git\\designpattern\\decorator\\decorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76E072E3-5399-4618-807A-659F55DC9994}|Decorator\\Decorator.csproj|solutionrelative:decorator\\decorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76E072E3-5399-4618-807A-659F55DC9994}|Decorator\\Decorator.csproj|c:\\git\\designpattern\\decorator\\concretecomponent .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76E072E3-5399-4618-807A-659F55DC9994}|Decorator\\Decorator.csproj|solutionrelative:decorator\\concretecomponent .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76E072E3-5399-4618-807A-659F55DC9994}|Decorator\\Decorator.csproj|c:\\git\\designpattern\\decorator\\concretedecoratorb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76E072E3-5399-4618-807A-659F55DC9994}|Decorator\\Decorator.csproj|solutionrelative:decorator\\concretedecoratorb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76E072E3-5399-4618-807A-659F55DC9994}|Decorator\\Decorator.csproj|c:\\git\\designpattern\\decorator\\icomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76E072E3-5399-4618-807A-659F55DC9994}|Decorator\\Decorator.csproj|solutionrelative:decorator\\icomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,8 +38,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 12,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ConcreteComponent .cs",
+              "DocumentMoniker": "C:\\Git\\DesignPattern\\Decorator\\ConcreteComponent .cs",
+              "RelativeDocumentMoniker": "Decorator\\ConcreteComponent .cs",
+              "ToolTip": "C:\\Git\\DesignPattern\\Decorator\\ConcreteComponent .cs",
+              "RelativeToolTip": "Decorator\\ConcreteComponent .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T21:29:19.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ConcreteDecoratorB.cs",
+              "DocumentMoniker": "C:\\Git\\DesignPattern\\Decorator\\ConcreteDecoratorB.cs",
+              "RelativeDocumentMoniker": "Decorator\\ConcreteDecoratorB.cs",
+              "ToolTip": "C:\\Git\\DesignPattern\\Decorator\\ConcreteDecoratorB.cs",
+              "RelativeToolTip": "Decorator\\ConcreteDecoratorB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T20:39:11.312Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{0e6ecdb7-7308-37e5-9768-ada2bc2961ab}"
@@ -46,28 +92,67 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Git\\DesignPattern\\Composite\\Program.cs",
-              "RelativeDocumentMoniker": "Composite\\Program.cs",
-              "ToolTip": "C:\\Git\\DesignPattern\\Composite\\Program.cs",
-              "RelativeToolTip": "Composite\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAYAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "ConcreteDecoratorA.cs",
+              "DocumentMoniker": "C:\\Git\\DesignPattern\\Decorator\\ConcreteDecoratorA.cs",
+              "RelativeDocumentMoniker": "Decorator\\ConcreteDecoratorA.cs",
+              "ToolTip": "C:\\Git\\DesignPattern\\Decorator\\ConcreteDecoratorA.cs",
+              "RelativeToolTip": "Decorator\\ConcreteDecoratorA.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-27T18:57:02.458Z",
+              "WhenOpened": "2024-11-28T21:28:57.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IComponent.cs",
+              "DocumentMoniker": "C:\\Git\\DesignPattern\\Decorator\\IComponent.cs",
+              "RelativeDocumentMoniker": "Decorator\\IComponent.cs",
+              "ToolTip": "C:\\Git\\DesignPattern\\Decorator\\IComponent.cs",
+              "RelativeToolTip": "Decorator\\IComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T21:28:48.27Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Client.cs",
-              "DocumentMoniker": "C:\\Git\\DesignPattern\\Composite\\Client.cs",
-              "RelativeDocumentMoniker": "Composite\\Client.cs",
-              "ToolTip": "C:\\Git\\DesignPattern\\Composite\\Client.cs",
-              "RelativeToolTip": "Composite\\Client.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAUAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Git\\DesignPattern\\Decorator\\Client.cs",
+              "RelativeDocumentMoniker": "Decorator\\Client.cs",
+              "ToolTip": "C:\\Git\\DesignPattern\\Decorator\\Client.cs",
+              "RelativeToolTip": "Decorator\\Client.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-27T18:56:56.1Z",
+              "WhenOpened": "2024-11-28T20:28:16.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Decorator.cs",
+              "DocumentMoniker": "C:\\Git\\DesignPattern\\Decorator\\Decorator.cs",
+              "RelativeDocumentMoniker": "Decorator\\Decorator.cs",
+              "ToolTip": "C:\\Git\\DesignPattern\\Decorator\\Decorator.cs",
+              "RelativeToolTip": "Decorator\\Decorator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T20:15:47.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Git\\DesignPattern\\Decorator\\Program.cs",
+              "RelativeDocumentMoniker": "Decorator\\Program.cs",
+              "ToolTip": "C:\\Git\\DesignPattern\\Decorator\\Program.cs",
+              "RelativeToolTip": "Decorator\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T20:12:16.722Z",
               "EditorCaption": ""
             }
           ]

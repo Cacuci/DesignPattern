@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "C:\\Git\\DesignPattern\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{76E072E3-5399-4618-807A-659F55DC9994}|Decorator\\Decorator.csproj|c:\\git\\designpattern\\decorator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{76E072E3-5399-4618-807A-659F55DC9994}|Decorator\\Decorator.csproj|solutionrelative:decorator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E5F6A358-88E7-4660-AF6D-A35A1B052A1D}|Facade\\Facade.csproj|c:\\git\\designpattern\\facade\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5F6A358-88E7-4660-AF6D-A35A1B052A1D}|Facade\\Facade.csproj|solutionrelative:facade\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{76E072E3-5399-4618-807A-659F55DC9994}|Decorator\\Decorator.csproj|c:\\git\\designpattern\\decorator\\decorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{76E072E3-5399-4618-807A-659F55DC9994}|Decorator\\Decorator.csproj|solutionrelative:decorator\\decorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E5F6A358-88E7-4660-AF6D-A35A1B052A1D}|Facade\\Facade.csproj|c:\\git\\designpattern\\facade\\subsystem1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5F6A358-88E7-4660-AF6D-A35A1B052A1D}|Facade\\Facade.csproj|solutionrelative:facade\\subsystem1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{76E072E3-5399-4618-807A-659F55DC9994}|Decorator\\Decorator.csproj|c:\\git\\designpattern\\decorator\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{76E072E3-5399-4618-807A-659F55DC9994}|Decorator\\Decorator.csproj|solutionrelative:decorator\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E5F6A358-88E7-4660-AF6D-A35A1B052A1D}|Facade\\Facade.csproj|c:\\git\\designpattern\\facade\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5F6A358-88E7-4660-AF6D-A35A1B052A1D}|Facade\\Facade.csproj|solutionrelative:facade\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5F6A358-88E7-4660-AF6D-A35A1B052A1D}|Facade\\Facade.csproj|c:\\git\\designpattern\\facade\\subsystem2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5F6A358-88E7-4660-AF6D-A35A1B052A1D}|Facade\\Facade.csproj|solutionrelative:facade\\subsystem2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5F6A358-88E7-4660-AF6D-A35A1B052A1D}|Facade\\Facade.csproj|c:\\git\\designpattern\\facade\\facade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5F6A358-88E7-4660-AF6D-A35A1B052A1D}|Facade\\Facade.csproj|solutionrelative:facade\\facade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -52,39 +60,65 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Client.cs",
-              "DocumentMoniker": "C:\\Git\\DesignPattern\\Decorator\\Client.cs",
-              "RelativeDocumentMoniker": "Decorator\\Client.cs",
-              "ToolTip": "C:\\Git\\DesignPattern\\Decorator\\Client.cs",
-              "RelativeToolTip": "Decorator\\Client.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAA4AAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Git\\DesignPattern\\Facade\\Client.cs",
+              "RelativeDocumentMoniker": "Facade\\Client.cs",
+              "ToolTip": "C:\\Git\\DesignPattern\\Facade\\Client.cs",
+              "RelativeToolTip": "Facade\\Client.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T20:28:16.183Z",
+              "WhenOpened": "2024-11-30T01:23:14.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SubSystem2.cs",
+              "DocumentMoniker": "C:\\Git\\DesignPattern\\Facade\\SubSystem2.cs",
+              "RelativeDocumentMoniker": "Facade\\SubSystem2.cs",
+              "ToolTip": "C:\\Git\\DesignPattern\\Facade\\SubSystem2.cs",
+              "RelativeToolTip": "Facade\\SubSystem2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T01:15:23.006Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Decorator.cs",
-              "DocumentMoniker": "C:\\Git\\DesignPattern\\Decorator\\Decorator.cs",
-              "RelativeDocumentMoniker": "Decorator\\Decorator.cs",
-              "ToolTip": "C:\\Git\\DesignPattern\\Decorator\\Decorator.cs",
-              "RelativeToolTip": "Decorator\\Decorator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAMAAAAAAAAAA==",
+              "Title": "SubSystem1.cs",
+              "DocumentMoniker": "C:\\Git\\DesignPattern\\Facade\\SubSystem1.cs",
+              "RelativeDocumentMoniker": "Facade\\SubSystem1.cs",
+              "ToolTip": "C:\\Git\\DesignPattern\\Facade\\SubSystem1.cs",
+              "RelativeToolTip": "Facade\\SubSystem1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T20:15:47.75Z",
+              "WhenOpened": "2024-11-30T01:15:00.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Facade.cs",
+              "DocumentMoniker": "C:\\Git\\DesignPattern\\Facade\\Facade.cs",
+              "RelativeDocumentMoniker": "Facade\\Facade.cs",
+              "ToolTip": "C:\\Git\\DesignPattern\\Facade\\Facade.cs",
+              "RelativeToolTip": "Facade\\Facade.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T01:14:28.541Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Git\\DesignPattern\\Decorator\\Program.cs",
-              "RelativeDocumentMoniker": "Decorator\\Program.cs",
-              "ToolTip": "C:\\Git\\DesignPattern\\Decorator\\Program.cs",
-              "RelativeToolTip": "Decorator\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Git\\DesignPattern\\Facade\\Program.cs",
+              "RelativeDocumentMoniker": "Facade\\Program.cs",
+              "ToolTip": "C:\\Git\\DesignPattern\\Facade\\Program.cs",
+              "RelativeToolTip": "Facade\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T20:12:16.722Z",
+              "WhenOpened": "2024-11-30T01:09:46.73Z",
               "EditorCaption": ""
             }
           ]

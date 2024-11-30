@@ -1,6 +1,5 @@
 ﻿namespace Decorator
 {
-
     // Decorators concretos chamam o objeto envolvido e alteram seu resultado de alguma forma.
     internal class ConcreteDecoratorA : Decorator
     {

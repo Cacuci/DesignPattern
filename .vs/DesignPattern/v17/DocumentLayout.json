@@ -1,36 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Git\\DesignPattern\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{76E072E3-5399-4618-807A-659F55DC9994}|Decorator\\Decorator.csproj|c:\\git\\designpattern\\decorator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{76E072E3-5399-4618-807A-659F55DC9994}|Decorator\\Decorator.csproj|solutionrelative:decorator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{76E072E3-5399-4618-807A-659F55DC9994}|Decorator\\Decorator.csproj|c:\\git\\designpattern\\decorator\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{76E072E3-5399-4618-807A-659F55DC9994}|Decorator\\Decorator.csproj|solutionrelative:decorator\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{76E072E3-5399-4618-807A-659F55DC9994}|Decorator\\Decorator.csproj|c:\\git\\designpattern\\decorator\\concretedecoratora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{76E072E3-5399-4618-807A-659F55DC9994}|Decorator\\Decorator.csproj|solutionrelative:decorator\\concretedecoratora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{76E072E3-5399-4618-807A-659F55DC9994}|Decorator\\Decorator.csproj|c:\\git\\designpattern\\decorator\\decorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{76E072E3-5399-4618-807A-659F55DC9994}|Decorator\\Decorator.csproj|solutionrelative:decorator\\decorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{76E072E3-5399-4618-807A-659F55DC9994}|Decorator\\Decorator.csproj|c:\\git\\designpattern\\decorator\\concretecomponent .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{76E072E3-5399-4618-807A-659F55DC9994}|Decorator\\Decorator.csproj|solutionrelative:decorator\\concretecomponent .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{76E072E3-5399-4618-807A-659F55DC9994}|Decorator\\Decorator.csproj|c:\\git\\designpattern\\decorator\\concretedecoratorb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{76E072E3-5399-4618-807A-659F55DC9994}|Decorator\\Decorator.csproj|solutionrelative:decorator\\concretedecoratorb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{76E072E3-5399-4618-807A-659F55DC9994}|Decorator\\Decorator.csproj|c:\\git\\designpattern\\decorator\\icomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{76E072E3-5399-4618-807A-659F55DC9994}|Decorator\\Decorator.csproj|solutionrelative:decorator\\icomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -38,34 +9,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 12,
+          "SelectedChildIndex": -1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ConcreteComponent .cs",
-              "DocumentMoniker": "C:\\Git\\DesignPattern\\Decorator\\ConcreteComponent .cs",
-              "RelativeDocumentMoniker": "Decorator\\ConcreteComponent .cs",
-              "ToolTip": "C:\\Git\\DesignPattern\\Decorator\\ConcreteComponent .cs",
-              "RelativeToolTip": "Decorator\\ConcreteComponent .cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T21:29:19.934Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ConcreteDecoratorB.cs",
-              "DocumentMoniker": "C:\\Git\\DesignPattern\\Decorator\\ConcreteDecoratorB.cs",
-              "RelativeDocumentMoniker": "Decorator\\ConcreteDecoratorB.cs",
-              "ToolTip": "C:\\Git\\DesignPattern\\Decorator\\ConcreteDecoratorB.cs",
-              "RelativeToolTip": "Decorator\\ConcreteDecoratorB.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T20:39:11.312Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{0e6ecdb7-7308-37e5-9768-ada2bc2961ab}"
@@ -89,71 +34,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{228e1580-0ef9-329a-bf07-81ebc3dcbf7e}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ConcreteDecoratorA.cs",
-              "DocumentMoniker": "C:\\Git\\DesignPattern\\Decorator\\ConcreteDecoratorA.cs",
-              "RelativeDocumentMoniker": "Decorator\\ConcreteDecoratorA.cs",
-              "ToolTip": "C:\\Git\\DesignPattern\\Decorator\\ConcreteDecoratorA.cs",
-              "RelativeToolTip": "Decorator\\ConcreteDecoratorA.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T21:28:57.262Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "IComponent.cs",
-              "DocumentMoniker": "C:\\Git\\DesignPattern\\Decorator\\IComponent.cs",
-              "RelativeDocumentMoniker": "Decorator\\IComponent.cs",
-              "ToolTip": "C:\\Git\\DesignPattern\\Decorator\\IComponent.cs",
-              "RelativeToolTip": "Decorator\\IComponent.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T21:28:48.27Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Client.cs",
-              "DocumentMoniker": "C:\\Git\\DesignPattern\\Decorator\\Client.cs",
-              "RelativeDocumentMoniker": "Decorator\\Client.cs",
-              "ToolTip": "C:\\Git\\DesignPattern\\Decorator\\Client.cs",
-              "RelativeToolTip": "Decorator\\Client.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAA4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T20:28:16.183Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Decorator.cs",
-              "DocumentMoniker": "C:\\Git\\DesignPattern\\Decorator\\Decorator.cs",
-              "RelativeDocumentMoniker": "Decorator\\Decorator.cs",
-              "ToolTip": "C:\\Git\\DesignPattern\\Decorator\\Decorator.cs",
-              "RelativeToolTip": "Decorator\\Decorator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T20:15:47.75Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Git\\DesignPattern\\Decorator\\Program.cs",
-              "RelativeDocumentMoniker": "Decorator\\Program.cs",
-              "ToolTip": "C:\\Git\\DesignPattern\\Decorator\\Program.cs",
-              "RelativeToolTip": "Decorator\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T20:12:16.722Z",
-              "EditorCaption": ""
             }
           ]
         }

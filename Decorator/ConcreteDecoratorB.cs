@@ -1,6 +1,6 @@
 ﻿namespace Decorator
 {
-    // Decoradores podem executar seu comportamento antes ou depois da chamada para
+    // Decorators podem executar seu comportamento antes ou depois da chamada para
     // um objeto empacotado.
     internal class ConcreteDecoratorB : Decorator
     {

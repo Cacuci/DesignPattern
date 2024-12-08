@@ -10,7 +10,7 @@
         protected abstract ITransport FactoryMethod();
 
         // Observe também que, apesar do nome, o principal
-        // responsabilidade não é criar produtos. Geralmente contém alguns
+        // responsabilidade não é criar produtos. Geralmente contém alguma
         // lógica de negócios principal que depende de objetos Transport, retornados pelo
         // método de fábrica. As subclasses podem alterar indiretamente essa lógica de negócios
         // substituindo o método de fábrica e retornando um tipo diferente de

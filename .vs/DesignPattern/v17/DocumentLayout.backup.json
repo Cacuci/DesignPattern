@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "C:\\Git\\DesignPattern\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E5F6A358-88E7-4660-AF6D-A35A1B052A1D}|Facade\\Facade.csproj|c:\\git\\designpattern\\facade\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E5F6A358-88E7-4660-AF6D-A35A1B052A1D}|Facade\\Facade.csproj|solutionrelative:facade\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8391A18F-6022-406A-8685-D194C6B43F33}|Proxy\\Proxy.csproj|c:\\git\\designpattern\\proxy\\proxy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8391A18F-6022-406A-8685-D194C6B43F33}|Proxy\\Proxy.csproj|solutionrelative:proxy\\proxy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E5F6A358-88E7-4660-AF6D-A35A1B052A1D}|Facade\\Facade.csproj|c:\\git\\designpattern\\facade\\subsystem1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E5F6A358-88E7-4660-AF6D-A35A1B052A1D}|Facade\\Facade.csproj|solutionrelative:facade\\subsystem1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8391A18F-6022-406A-8685-D194C6B43F33}|Proxy\\Proxy.csproj|c:\\git\\designpattern\\proxy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8391A18F-6022-406A-8685-D194C6B43F33}|Proxy\\Proxy.csproj|solutionrelative:proxy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E5F6A358-88E7-4660-AF6D-A35A1B052A1D}|Facade\\Facade.csproj|c:\\git\\designpattern\\facade\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E5F6A358-88E7-4660-AF6D-A35A1B052A1D}|Facade\\Facade.csproj|solutionrelative:facade\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8391A18F-6022-406A-8685-D194C6B43F33}|Proxy\\Proxy.csproj|c:\\git\\designpattern\\proxy\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8391A18F-6022-406A-8685-D194C6B43F33}|Proxy\\Proxy.csproj|solutionrelative:proxy\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E5F6A358-88E7-4660-AF6D-A35A1B052A1D}|Facade\\Facade.csproj|c:\\git\\designpattern\\facade\\subsystem2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E5F6A358-88E7-4660-AF6D-A35A1B052A1D}|Facade\\Facade.csproj|solutionrelative:facade\\subsystem2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8391A18F-6022-406A-8685-D194C6B43F33}|Proxy\\Proxy.csproj|c:\\git\\designpattern\\proxy\\realsubject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8391A18F-6022-406A-8685-D194C6B43F33}|Proxy\\Proxy.csproj|solutionrelative:proxy\\realsubject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E5F6A358-88E7-4660-AF6D-A35A1B052A1D}|Facade\\Facade.csproj|c:\\git\\designpattern\\facade\\facade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E5F6A358-88E7-4660-AF6D-A35A1B052A1D}|Facade\\Facade.csproj|solutionrelative:facade\\facade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8391A18F-6022-406A-8685-D194C6B43F33}|Proxy\\Proxy.csproj|c:\\git\\designpattern\\proxy\\isubject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8391A18F-6022-406A-8685-D194C6B43F33}|Proxy\\Proxy.csproj|solutionrelative:proxy\\isubject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -60,65 +60,65 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Client.cs",
-              "DocumentMoniker": "C:\\Git\\DesignPattern\\Facade\\Client.cs",
-              "RelativeDocumentMoniker": "Facade\\Client.cs",
-              "ToolTip": "C:\\Git\\DesignPattern\\Facade\\Client.cs",
-              "RelativeToolTip": "Facade\\Client.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAjAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Git\\DesignPattern\\Proxy\\Client.cs",
+              "RelativeDocumentMoniker": "Proxy\\Client.cs",
+              "ToolTip": "C:\\Git\\DesignPattern\\Proxy\\Client.cs",
+              "RelativeToolTip": "Proxy\\Client.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T01:23:14.278Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "SubSystem2.cs",
-              "DocumentMoniker": "C:\\Git\\DesignPattern\\Facade\\SubSystem2.cs",
-              "RelativeDocumentMoniker": "Facade\\SubSystem2.cs",
-              "ToolTip": "C:\\Git\\DesignPattern\\Facade\\SubSystem2.cs",
-              "RelativeToolTip": "Facade\\SubSystem2.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T01:15:23.006Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "SubSystem1.cs",
-              "DocumentMoniker": "C:\\Git\\DesignPattern\\Facade\\SubSystem1.cs",
-              "RelativeDocumentMoniker": "Facade\\SubSystem1.cs",
-              "ToolTip": "C:\\Git\\DesignPattern\\Facade\\SubSystem1.cs",
-              "RelativeToolTip": "Facade\\SubSystem1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T01:15:00.173Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Facade.cs",
-              "DocumentMoniker": "C:\\Git\\DesignPattern\\Facade\\Facade.cs",
-              "RelativeDocumentMoniker": "Facade\\Facade.cs",
-              "ToolTip": "C:\\Git\\DesignPattern\\Facade\\Facade.cs",
-              "RelativeToolTip": "Facade\\Facade.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T01:14:28.541Z",
+              "WhenOpened": "2024-12-08T23:10:49.983Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Git\\DesignPattern\\Facade\\Program.cs",
-              "RelativeDocumentMoniker": "Facade\\Program.cs",
-              "ToolTip": "C:\\Git\\DesignPattern\\Facade\\Program.cs",
-              "RelativeToolTip": "Facade\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAATAAAAAAAAAA==",
+              "Title": "Proxy.cs",
+              "DocumentMoniker": "C:\\Git\\DesignPattern\\Proxy\\Proxy.cs",
+              "RelativeDocumentMoniker": "Proxy\\Proxy.cs",
+              "ToolTip": "C:\\Git\\DesignPattern\\Proxy\\Proxy.cs",
+              "RelativeToolTip": "Proxy\\Proxy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T01:09:46.73Z",
+              "WhenOpened": "2024-12-08T23:05:32.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RealSubject.cs",
+              "DocumentMoniker": "C:\\Git\\DesignPattern\\Proxy\\RealSubject.cs",
+              "RelativeDocumentMoniker": "Proxy\\RealSubject.cs",
+              "ToolTip": "C:\\Git\\DesignPattern\\Proxy\\RealSubject.cs",
+              "RelativeToolTip": "Proxy\\RealSubject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T23:03:55.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ISubject.cs",
+              "DocumentMoniker": "C:\\Git\\DesignPattern\\Proxy\\ISubject.cs",
+              "RelativeDocumentMoniker": "Proxy\\ISubject.cs",
+              "ToolTip": "C:\\Git\\DesignPattern\\Proxy\\ISubject.cs",
+              "RelativeToolTip": "Proxy\\ISubject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T23:03:14.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Git\\DesignPattern\\Proxy\\Program.cs",
+              "RelativeDocumentMoniker": "Proxy\\Program.cs",
+              "ToolTip": "C:\\Git\\DesignPattern\\Proxy\\Program.cs",
+              "RelativeToolTip": "Proxy\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T22:59:36.415Z",
               "EditorCaption": ""
             }
           ]

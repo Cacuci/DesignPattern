@@ -6,7 +6,7 @@
     internal abstract class Componet
     {
         // O componente base pode implementar algum comportamento padrão ou deixá-lo
-        // classes concretas (declarando o método que contém o comportamento como
+        // para aas classes concretas (declarando o método que contém o comportamento como
         // "abstract").
         public abstract string Operation();
 

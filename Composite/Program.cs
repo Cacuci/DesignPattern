@@ -10,7 +10,6 @@ Console.WriteLine("Cliente: eu tenho um componente simples");
 
 client.ClientCode(leaf);
 
-
 // ...assim como os compostos complexos.
 Composite.Composite tree = new();
 

@@ -29,6 +29,6 @@
             _width = width;
         }
 
-        public new Rectangle Clone() => new Rectangle(this);
+        public new Rectangle Clone() => new(this);
     }
 }

@@ -3,24 +3,28 @@
   "WorkspaceRootPath": "C:\\Git\\DesignPattern\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8391A18F-6022-406A-8685-D194C6B43F33}|Proxy\\Proxy.csproj|c:\\git\\designpattern\\proxy\\proxy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8391A18F-6022-406A-8685-D194C6B43F33}|Proxy\\Proxy.csproj|solutionrelative:proxy\\proxy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7EDB7C7D-1C8E-49D6-A6F7-10D7F4355555}|ChainOfResponsibility\\ChainOfResponsibility.csproj|c:\\git\\designpattern\\chainofresponsibility\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EDB7C7D-1C8E-49D6-A6F7-10D7F4355555}|ChainOfResponsibility\\ChainOfResponsibility.csproj|solutionrelative:chainofresponsibility\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8391A18F-6022-406A-8685-D194C6B43F33}|Proxy\\Proxy.csproj|c:\\git\\designpattern\\proxy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8391A18F-6022-406A-8685-D194C6B43F33}|Proxy\\Proxy.csproj|solutionrelative:proxy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7EDB7C7D-1C8E-49D6-A6F7-10D7F4355555}|ChainOfResponsibility\\ChainOfResponsibility.csproj|c:\\git\\designpattern\\chainofresponsibility\\squirrelhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EDB7C7D-1C8E-49D6-A6F7-10D7F4355555}|ChainOfResponsibility\\ChainOfResponsibility.csproj|solutionrelative:chainofresponsibility\\squirrelhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8391A18F-6022-406A-8685-D194C6B43F33}|Proxy\\Proxy.csproj|c:\\git\\designpattern\\proxy\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8391A18F-6022-406A-8685-D194C6B43F33}|Proxy\\Proxy.csproj|solutionrelative:proxy\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7EDB7C7D-1C8E-49D6-A6F7-10D7F4355555}|ChainOfResponsibility\\ChainOfResponsibility.csproj|c:\\git\\designpattern\\chainofresponsibility\\doghandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EDB7C7D-1C8E-49D6-A6F7-10D7F4355555}|ChainOfResponsibility\\ChainOfResponsibility.csproj|solutionrelative:chainofresponsibility\\doghandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8391A18F-6022-406A-8685-D194C6B43F33}|Proxy\\Proxy.csproj|c:\\git\\designpattern\\proxy\\realsubject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8391A18F-6022-406A-8685-D194C6B43F33}|Proxy\\Proxy.csproj|solutionrelative:proxy\\realsubject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7EDB7C7D-1C8E-49D6-A6F7-10D7F4355555}|ChainOfResponsibility\\ChainOfResponsibility.csproj|c:\\git\\designpattern\\chainofresponsibility\\monkeyhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EDB7C7D-1C8E-49D6-A6F7-10D7F4355555}|ChainOfResponsibility\\ChainOfResponsibility.csproj|solutionrelative:chainofresponsibility\\monkeyhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8391A18F-6022-406A-8685-D194C6B43F33}|Proxy\\Proxy.csproj|c:\\git\\designpattern\\proxy\\isubject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8391A18F-6022-406A-8685-D194C6B43F33}|Proxy\\Proxy.csproj|solutionrelative:proxy\\isubject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7EDB7C7D-1C8E-49D6-A6F7-10D7F4355555}|ChainOfResponsibility\\ChainOfResponsibility.csproj|c:\\git\\designpattern\\chainofresponsibility\\abstracthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EDB7C7D-1C8E-49D6-A6F7-10D7F4355555}|ChainOfResponsibility\\ChainOfResponsibility.csproj|solutionrelative:chainofresponsibility\\abstracthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EDB7C7D-1C8E-49D6-A6F7-10D7F4355555}|ChainOfResponsibility\\ChainOfResponsibility.csproj|c:\\git\\designpattern\\chainofresponsibility\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EDB7C7D-1C8E-49D6-A6F7-10D7F4355555}|ChainOfResponsibility\\ChainOfResponsibility.csproj|solutionrelative:chainofresponsibility\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,8 +34,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Git\\DesignPattern\\ChainOfResponsibility\\Client.cs",
+              "RelativeDocumentMoniker": "ChainOfResponsibility\\Client.cs",
+              "ToolTip": "C:\\Git\\DesignPattern\\ChainOfResponsibility\\Client.cs",
+              "RelativeToolTip": "ChainOfResponsibility\\Client.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T17:16:32.311Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{0e6ecdb7-7308-37e5-9768-ada2bc2961ab}"
@@ -58,67 +75,67 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Client.cs",
-              "DocumentMoniker": "C:\\Git\\DesignPattern\\Proxy\\Client.cs",
-              "RelativeDocumentMoniker": "Proxy\\Client.cs",
-              "ToolTip": "C:\\Git\\DesignPattern\\Proxy\\Client.cs",
-              "RelativeToolTip": "Proxy\\Client.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAXAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "SquirrelHandler.cs",
+              "DocumentMoniker": "C:\\Git\\DesignPattern\\ChainOfResponsibility\\SquirrelHandler.cs",
+              "RelativeDocumentMoniker": "ChainOfResponsibility\\SquirrelHandler.cs",
+              "ToolTip": "C:\\Git\\DesignPattern\\ChainOfResponsibility\\SquirrelHandler.cs",
+              "RelativeToolTip": "ChainOfResponsibility\\SquirrelHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-08T23:10:49.983Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Proxy.cs",
-              "DocumentMoniker": "C:\\Git\\DesignPattern\\Proxy\\Proxy.cs",
-              "RelativeDocumentMoniker": "Proxy\\Proxy.cs",
-              "ToolTip": "C:\\Git\\DesignPattern\\Proxy\\Proxy.cs",
-              "RelativeToolTip": "Proxy\\Proxy.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-08T23:05:32.341Z",
+              "WhenOpened": "2025-01-05T17:20:43.002Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "RealSubject.cs",
-              "DocumentMoniker": "C:\\Git\\DesignPattern\\Proxy\\RealSubject.cs",
-              "RelativeDocumentMoniker": "Proxy\\RealSubject.cs",
-              "ToolTip": "C:\\Git\\DesignPattern\\Proxy\\RealSubject.cs",
-              "RelativeToolTip": "Proxy\\RealSubject.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
+              "Title": "MonkeyHandler.cs",
+              "DocumentMoniker": "C:\\Git\\DesignPattern\\ChainOfResponsibility\\MonkeyHandler.cs",
+              "RelativeDocumentMoniker": "ChainOfResponsibility\\MonkeyHandler.cs",
+              "ToolTip": "C:\\Git\\DesignPattern\\ChainOfResponsibility\\MonkeyHandler.cs",
+              "RelativeToolTip": "ChainOfResponsibility\\MonkeyHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-08T23:03:55.061Z",
+              "WhenOpened": "2025-01-05T17:20:34.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DogHandler.cs",
+              "DocumentMoniker": "C:\\Git\\DesignPattern\\ChainOfResponsibility\\DogHandler.cs",
+              "RelativeDocumentMoniker": "ChainOfResponsibility\\DogHandler.cs",
+              "ToolTip": "C:\\Git\\DesignPattern\\ChainOfResponsibility\\DogHandler.cs",
+              "RelativeToolTip": "ChainOfResponsibility\\DogHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T17:19:32.681Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "ISubject.cs",
-              "DocumentMoniker": "C:\\Git\\DesignPattern\\Proxy\\ISubject.cs",
-              "RelativeDocumentMoniker": "Proxy\\ISubject.cs",
-              "ToolTip": "C:\\Git\\DesignPattern\\Proxy\\ISubject.cs",
-              "RelativeToolTip": "Proxy\\ISubject.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAbAAAAAAAAAA==",
+              "Title": "AbstractHandler.cs",
+              "DocumentMoniker": "C:\\Git\\DesignPattern\\ChainOfResponsibility\\AbstractHandler.cs",
+              "RelativeDocumentMoniker": "ChainOfResponsibility\\AbstractHandler.cs",
+              "ToolTip": "C:\\Git\\DesignPattern\\ChainOfResponsibility\\AbstractHandler.cs",
+              "RelativeToolTip": "ChainOfResponsibility\\AbstractHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-08T23:03:14.555Z",
+              "WhenOpened": "2025-01-05T17:14:48.359Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Git\\DesignPattern\\Proxy\\Program.cs",
-              "RelativeDocumentMoniker": "Proxy\\Program.cs",
-              "ToolTip": "C:\\Git\\DesignPattern\\Proxy\\Program.cs",
-              "RelativeToolTip": "Proxy\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAZAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Git\\DesignPattern\\ChainOfResponsibility\\Program.cs",
+              "RelativeDocumentMoniker": "ChainOfResponsibility\\Program.cs",
+              "ToolTip": "C:\\Git\\DesignPattern\\ChainOfResponsibility\\Program.cs",
+              "RelativeToolTip": "ChainOfResponsibility\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-08T22:59:36.415Z",
+              "WhenOpened": "2025-01-05T17:10:39.958Z",
               "EditorCaption": ""
             }
           ]

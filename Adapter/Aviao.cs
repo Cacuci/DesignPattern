@@ -5,14 +5,8 @@
     // adaptação antes que o código do cliente possa usá-lo.
     internal class Aviao
     {
-        public void Voar(string jogador)
-        {
-            Console.WriteLine(jogador + " voou para frente!");
-        }
+        public void Voar(string jogador) => Console.WriteLine(jogador + " voou para frente!");
 
-        public void SoltarMissil()
-        {
-            Console.WriteLine("Soltou um míssil no jogo!");
-        }
+        public void SoltarMissil() => Console.WriteLine("Soltou um míssil no jogo!");
     }
 }

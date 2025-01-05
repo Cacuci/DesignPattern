@@ -1,28 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Git\\DesignPattern\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{8391A18F-6022-406A-8685-D194C6B43F33}|Proxy\\Proxy.csproj|c:\\git\\designpattern\\proxy\\proxy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8391A18F-6022-406A-8685-D194C6B43F33}|Proxy\\Proxy.csproj|solutionrelative:proxy\\proxy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8391A18F-6022-406A-8685-D194C6B43F33}|Proxy\\Proxy.csproj|c:\\git\\designpattern\\proxy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8391A18F-6022-406A-8685-D194C6B43F33}|Proxy\\Proxy.csproj|solutionrelative:proxy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8391A18F-6022-406A-8685-D194C6B43F33}|Proxy\\Proxy.csproj|c:\\git\\designpattern\\proxy\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8391A18F-6022-406A-8685-D194C6B43F33}|Proxy\\Proxy.csproj|solutionrelative:proxy\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8391A18F-6022-406A-8685-D194C6B43F33}|Proxy\\Proxy.csproj|c:\\git\\designpattern\\proxy\\realsubject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8391A18F-6022-406A-8685-D194C6B43F33}|Proxy\\Proxy.csproj|solutionrelative:proxy\\realsubject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8391A18F-6022-406A-8685-D194C6B43F33}|Proxy\\Proxy.csproj|c:\\git\\designpattern\\proxy\\isubject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8391A18F-6022-406A-8685-D194C6B43F33}|Proxy\\Proxy.csproj|solutionrelative:proxy\\isubject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -30,7 +9,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -55,71 +34,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{228e1580-0ef9-329a-bf07-81ebc3dcbf7e}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Client.cs",
-              "DocumentMoniker": "C:\\Git\\DesignPattern\\Proxy\\Client.cs",
-              "RelativeDocumentMoniker": "Proxy\\Client.cs",
-              "ToolTip": "C:\\Git\\DesignPattern\\Proxy\\Client.cs",
-              "RelativeToolTip": "Proxy\\Client.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-08T23:10:49.983Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Proxy.cs",
-              "DocumentMoniker": "C:\\Git\\DesignPattern\\Proxy\\Proxy.cs",
-              "RelativeDocumentMoniker": "Proxy\\Proxy.cs",
-              "ToolTip": "C:\\Git\\DesignPattern\\Proxy\\Proxy.cs",
-              "RelativeToolTip": "Proxy\\Proxy.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-08T23:05:32.341Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "RealSubject.cs",
-              "DocumentMoniker": "C:\\Git\\DesignPattern\\Proxy\\RealSubject.cs",
-              "RelativeDocumentMoniker": "Proxy\\RealSubject.cs",
-              "ToolTip": "C:\\Git\\DesignPattern\\Proxy\\RealSubject.cs",
-              "RelativeToolTip": "Proxy\\RealSubject.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-08T23:03:55.061Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ISubject.cs",
-              "DocumentMoniker": "C:\\Git\\DesignPattern\\Proxy\\ISubject.cs",
-              "RelativeDocumentMoniker": "Proxy\\ISubject.cs",
-              "ToolTip": "C:\\Git\\DesignPattern\\Proxy\\ISubject.cs",
-              "RelativeToolTip": "Proxy\\ISubject.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-08T23:03:14.555Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Git\\DesignPattern\\Proxy\\Program.cs",
-              "RelativeDocumentMoniker": "Proxy\\Program.cs",
-              "ToolTip": "C:\\Git\\DesignPattern\\Proxy\\Program.cs",
-              "RelativeToolTip": "Proxy\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-08T22:59:36.415Z",
-              "EditorCaption": ""
             }
           ]
         }
